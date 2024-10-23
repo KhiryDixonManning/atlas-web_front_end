@@ -1,1 +1,1 @@
-ill be learning about html basics in this project
+ill be learning about html basics and advanced things in this project
